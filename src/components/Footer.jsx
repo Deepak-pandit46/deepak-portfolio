@@ -35,18 +35,22 @@ export default function Footer() {
           <div className="footer-actions">
             <div className="footer-socials">
               <a
-                href="#contact"
+                href="https://github.com/Deepak-pandit46"
+                target="_blank"
+                rel="noreferrer"
                 className="social-icon-btn"
-                aria-label="GitHub [Your GitHub - URL to be provided]"
-                title="GitHub: [Your GitHub - URL to be provided]"
+                aria-label="GitHub Profile (Deepak-pandit46)"
+                title="GitHub: https://github.com/Deepak-pandit46"
               >
                 <GithubIcon size={18} />
               </a>
               <a
-                href="#contact"
+                href="https://www.linkedin.com/in/deepak-pandit-ba6577294/"
+                target="_blank"
+                rel="noreferrer"
                 className="social-icon-btn"
-                aria-label="LinkedIn [Your LinkedIn - URL to be provided]"
-                title="LinkedIn: [Your LinkedIn - URL to be provided]"
+                aria-label="LinkedIn Profile (Deepak Pandit)"
+                title="LinkedIn: https://www.linkedin.com/in/deepak-pandit-ba6577294/"
               >
                 <LinkedinIcon size={18} />
               </a>

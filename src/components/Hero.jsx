@@ -41,18 +41,22 @@ export default function Hero() {
           <div className="hero-footer-meta">
             <div className="hero-social-links">
               <a
-                href="#contact"
+                href="https://github.com/Deepak-pandit46"
+                target="_blank"
+                rel="noreferrer"
                 className="social-icon-btn"
-                aria-label="GitHub Profile ([Your GitHub])"
-                title="GitHub: [Your GitHub - URL to be provided]"
+                aria-label="GitHub Profile (Deepak-pandit46)"
+                title="GitHub: https://github.com/Deepak-pandit46"
               >
                 <GithubIcon size={19} />
               </a>
               <a
-                href="#contact"
+                href="https://www.linkedin.com/in/deepak-pandit-ba6577294/"
+                target="_blank"
+                rel="noreferrer"
                 className="social-icon-btn"
-                aria-label="LinkedIn Profile ([Your LinkedIn])"
-                title="LinkedIn: [Your LinkedIn - URL to be provided]"
+                aria-label="LinkedIn Profile (Deepak Pandit)"
+                title="LinkedIn: https://www.linkedin.com/in/deepak-pandit-ba6577294/"
               >
                 <LinkedinIcon size={19} />
               </a>

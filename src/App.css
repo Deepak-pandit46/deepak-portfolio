@@ -1485,6 +1485,8 @@
 .detail-value {
   font-size: 0.98rem;
   font-weight: 500;
+  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 .detail-value:hover {

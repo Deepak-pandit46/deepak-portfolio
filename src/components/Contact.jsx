@@ -80,29 +80,39 @@ export default function Contact() {
                 </div>
               </div>
 
-              {/* GitHub Placeholder */}
+              {/* GitHub */}
               <div className="contact-detail-item">
                 <div className="contact-icon-box">
                   <GithubIcon size={20} className="text-cyan" />
                 </div>
                 <div className="contact-detail-text">
                   <span className="detail-label">GitHub</span>
-                  <span className="detail-value text-cyan">
-                    [Your GitHub - URL to be provided]
-                  </span>
+                  <a
+                    href="https://github.com/Deepak-pandit46"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="detail-value text-cyan"
+                  >
+                    https://github.com/Deepak-pandit46
+                  </a>
                 </div>
               </div>
 
-              {/* LinkedIn Placeholder */}
+              {/* LinkedIn */}
               <div className="contact-detail-item">
                 <div className="contact-icon-box">
                   <LinkedinIcon size={20} className="text-cyan" />
                 </div>
                 <div className="contact-detail-text">
                   <span className="detail-label">LinkedIn</span>
-                  <span className="detail-value text-cyan">
-                    [Your LinkedIn - URL to be provided]
-                  </span>
+                  <a
+                    href="https://www.linkedin.com/in/deepak-pandit-ba6577294/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="detail-value text-cyan"
+                  >
+                    https://www.linkedin.com/in/deepak-pandit-ba6577294/
+                  </a>
                 </div>
               </div>
             </div>

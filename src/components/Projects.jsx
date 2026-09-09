@@ -49,9 +49,11 @@ export default function Projects() {
 
               <div className="case-study-actions">
                 <a
-                  href="#contact"
+                  href="https://github.com/Deepak-pandit46"
+                  target="_blank"
+                  rel="noreferrer"
                   className="btn btn-outline btn-sm"
-                  title="Source Code: [Your GitHub - URL to be provided]"
+                  title="Source Code on GitHub (Deepak-pandit46)"
                 >
                   <GithubIcon size={16} />
                   <span>GitHub</span>
